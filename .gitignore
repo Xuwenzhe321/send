@@ -1,0 +1,15 @@
+node_modules
+coverage
+dist
+.idea
+.DS_Store
+.nyc_output
+.tox
+.pytest_cache
+*.iml
+android/app/src/main/assets
+ios/send-ios/assets/ios.js
+ios/send-ios/assets/vendor.js
+ios/send-ios.xcodeproj/project.xcworkspace/xcuserdata/*
+ios/send-ios.xcodeproj/xcuserdata/*
+test/integration/downloads

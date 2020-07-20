@@ -1,0 +1,4 @@
+dist
+android/app/src/main/assets
+android/app/build
+coverage
