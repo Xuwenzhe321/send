@@ -140,7 +140,7 @@
     "choo": "^7.0.0",
     "cldr-core": "^35.1.0",
     "configstore": "github:dannycoates/configstore#master",
-    "convict": "^5.2.0",
+    "convict": "^6.2.4",
     "express": "^4.17.1",
     "fxa-geodb": "^1.0.4",
     "helmet": "^3.21.2",
